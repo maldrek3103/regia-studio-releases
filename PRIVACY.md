@@ -22,4 +22,4 @@ Regia si collega a Internet solo per:
 - il controllo remoto (obs-websocket), solo se lo attivi, e solo dalla tua rete.
 
 ## Contatti
-Per domande: https://github.com/maldrek3103/regia-releases/issues
+Per domande: https://github.com/maldrek3103/regia-studio-releases/issues
